@@ -19,4 +19,4 @@ Displays total posts and most popular recipes.
 ## 🛠️ Technologies Used
 Backend: Laravel (PHP)
 Frontend: Blade, HTML, CSS, TailwindCSS, JavaScript
-Database: PostgreSQL
+Database: PostgreSQL.
